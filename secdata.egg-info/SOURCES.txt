@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+secdata/__init__.py
+secdata.egg-info/PKG-INFO
+secdata.egg-info/SOURCES.txt
+secdata.egg-info/dependency_links.txt
+secdata.egg-info/top_level.txt

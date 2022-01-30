@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: secdata
+Version: 0.0.2.3
+Summary: Easily Download Financial Data reported to SEC
+Home-page: https://github.com/voulkon/secdata
+Author: Konstantinos Voulgaropoulos
+Author-email: voulkon93@gmail.com
+License: MIT
+Project-URL: Source Code, https://github.com/voulkon/secdata
+Keywords: financial,reporting,us-gaap,gaap,sec,api
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # secdata : All Data reported to the Securities and Exchange Commission
 
 ## About
@@ -61,4 +78,6 @@ df_1 = my_downloader.fetch_facts([320193, 789019, 1652044])
 df_2 = my_downloader.fetch_facts([1318605, 37996])
 
 ```
+
+
 
