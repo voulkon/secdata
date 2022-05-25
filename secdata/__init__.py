@@ -254,7 +254,7 @@ class SecFactsDownloader:
             
         """
         
-        def sec_companies_info(self):
+        def sec_companies_info():
             import pandas as pd
             import requests
             """
@@ -288,7 +288,7 @@ class SecFactsDownloader:
         #Otherwise, if not existing
         else:
             #Call the downloader
-            self.sec_companies_info = sec_companies_info(self)
+            self.sec_companies_info = sec_companies_info()
             
             if return_dataframe:
                 return sec_companies_info
