@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: secdata
-Version: 0.0.2.3
+Version: 0.0.3
 Summary: Easily Download Financial Data reported to SEC
 Home-page: https://github.com/voulkon/secdata
 Author: Konstantinos Voulgaropoulos

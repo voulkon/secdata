@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="secdata",
     
-    version="0.0.2.3",
+    version="0.0.3",
     
     author="Konstantinos Voulgaropoulos",
     
